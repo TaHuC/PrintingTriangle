@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/PrintingTriangle/PrintingTriangle/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/PrintingTriangle/PrintingTriangle/bin/Debug/PrintingTriangle.exe.mdb
+/Users/TaHuC/Projects/PrintingTriangle/PrintingTriangle/bin/Debug/PrintingTriangle.exe
+/Users/TaHuC/Projects/PrintingTriangle/PrintingTriangle/obj/x86/Debug/PrintingTriangle.exe
+/Users/TaHuC/Projects/PrintingTriangle/PrintingTriangle/obj/x86/Debug/PrintingTriangle.exe.mdb
